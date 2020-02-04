@@ -3,4 +3,4 @@ def greeting(name)
   puts = "Hello #{name}, its nice to meet you."
 end
 
-greeting("sophie")
+greeting("HAL")
